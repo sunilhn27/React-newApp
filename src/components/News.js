@@ -4,7 +4,7 @@ export default class News extends Component {
   render() {
     return (
       <div>
-        <h1>Hello World</h1>
+        <h1>Hello Sunil</h1>
       </div>
     )
   }
